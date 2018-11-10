@@ -7,14 +7,14 @@
     display: table;
 }
 
-.header .logo{
-    float: left;
-    width: 100%;
-}
-.header .banner{
-    float: left;
-    width: 100%;
-}
+/*.header .logo{*/
+    /*float: left;*/
+
+/*}*/
+/*.header .banner{*/
+    /*float: left;*/
+
+/*}*/
 pre{
     text-align: center;
     font-style: italic;
@@ -26,6 +26,9 @@ pre{
 }
 .author {
     padding-left: 800px;
+}
+.footer .infor{
+    text-align: center;
 }
 
 [class*="col-"]{
